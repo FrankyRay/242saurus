@@ -21,3 +21,21 @@ slorber:
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+FrankyRay:
+  name: Franky Raymarcell Sinaga
+  title: HSR Player
+  url: https://github.com/FrankyRay
+  image_url: https://github.com/FrankyRay.png
+  page: true
+  socials:
+    github: https://github.com/FrankyRay
+
+stefarion:
+  name: Stefanus Tan Jaya
+  title: HSR Player
+  url: https://github.com/stefarion
+  image_url: https://github.com/stefarion.png
+  page: true
+  socials:
+    github: https://github.com/stefarion
